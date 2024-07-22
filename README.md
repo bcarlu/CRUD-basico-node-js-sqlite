@@ -1,6 +1,4 @@
-¡Claro! Aquí tienes un ejemplo de un archivo `README.md` para tu proyecto CRUD básico en Node.js con SQLite:
 
-```markdown
 # CRUD Básico con Node.js y SQLite
 
 Este es un ejemplo de una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) básica utilizando Node.js y SQLite. Este proyecto está diseñado para demostrar cómo construir una API RESTful simple con Express y una base de datos SQLite.
