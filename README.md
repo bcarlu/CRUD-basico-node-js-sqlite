@@ -10,10 +10,10 @@ Este es un ejemplo de una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) b
 
 ## Instalación
 
-1. Clona este repositorio:
+1. Clona este repositorio y accede a la carpeta creada:
 
 ```sh
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone https://github.com/bcarlu/CRUD-basico-node-js-sqlite.git
 cd nombre-del-repositorio
 ```
 
