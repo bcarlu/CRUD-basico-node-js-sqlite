@@ -14,7 +14,7 @@ Este es un ejemplo de una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) b
 
 ```sh
 git clone https://github.com/bcarlu/CRUD-basico-node-js-sqlite.git
-cd nombre-del-repositorio
+cd CRUD-basico-node-js-sqlite
 ```
 
 2. Instala las dependencias:
